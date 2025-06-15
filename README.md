@@ -4,9 +4,9 @@ Repositório contendo a solução para o case desafio do Ifood
 
 # Estrtutura do repositório
 
-src/ 
-- README.md
 ifood-case/
+- src/ 
+-      README.md
 - analysis/  
 -      1.html
 -      2.html
