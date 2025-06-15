@@ -5,9 +5,7 @@ Repositório contendo a solução para o case desafio do Ifood
 # Estrtutura do repositório
 
 ifood-case/
-├── src/ # Código fonte da solução
-├── analysis/ # Scripts/Notebooks com as respostas das perguntas
-├── README.md
-└── requirements.txt
-
+- analysis/  contem os dois notebooks separados para resolução + os arquivos HTML com a extração das execuções e analises que foram feitas
+- README.md
+- requirements.txt
 
